@@ -1,6 +1,6 @@
 # Summary
 
 * [Preface](README.md)
-   * Support
+   * Quick Links
 * [Licensing](chapter1.md)
 
