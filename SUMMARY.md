@@ -7,4 +7,5 @@
    * Regular Licence
    * Extended Licence Integration
 * Getting Started
+* How to
 
