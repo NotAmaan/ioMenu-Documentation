@@ -6,4 +6,5 @@
 * [Licensing](chapter1.md)
    * Regular Licence
    * Extended Licence Integration
+* Getting Started
 
