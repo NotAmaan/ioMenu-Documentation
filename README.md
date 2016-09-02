@@ -1,3 +1,5 @@
-# My Awesome Book
+# ioMenu
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Thank you for purchasing ioMenu.
+
+ioMenu is a Mega Menu plugin for WordPress. It has a modern design, is powerful and looks amazing on every device.
