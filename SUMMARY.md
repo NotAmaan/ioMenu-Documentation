@@ -19,5 +19,5 @@
    * Add widgets to menu
    * Add shortcode to menu
    * Hide theme's menu
-* FAQs
+* Developers
 
