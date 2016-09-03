@@ -20,6 +20,6 @@
    * Add shortcode to menu
    * Hide theme's menu
 * Developers
-   * Override Menu Templates
-   * Integrating ioMenu with a Theme
+   * [Override Menu Templates](override_menu_templates.md)
+   * [Integrating ioMenu with a Theme](integrating_iomenu_with_a_theme.md)
 
