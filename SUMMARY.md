@@ -21,4 +21,5 @@
    * Hide theme's menu
 * Developers
    * Override Menu Templates
+   * Integrating ioMenu with a Theme
 
