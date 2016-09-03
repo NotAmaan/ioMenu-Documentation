@@ -9,6 +9,7 @@
 * [Getting Started](getting_started.md)
    * Installation
    * Activation
+   * Update
 * How to
 * Licensing
 * FAQs
