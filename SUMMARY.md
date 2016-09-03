@@ -17,5 +17,6 @@
    * [Megamenu](megamenu.md)
 * [How to](how_to.md)
    * Add widgets to menu
+   * Add shortcode to menu
 * FAQs
 
