@@ -12,7 +12,5 @@
    * [Update](update.md)
 * Usage Guide
 * How to
-* Licensing
-   * Usage Guide
 * FAQs
 
