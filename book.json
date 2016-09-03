@@ -3,7 +3,8 @@
         "-add-header",
         "anchor-navigation",
         "anchorjs",
-        "catalog"
+        "catalog",
+        "back-to-top-button"
     ],
     "pluginsConfig": {}
 }
