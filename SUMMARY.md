@@ -13,7 +13,7 @@
 * [Usage Guide](usage_guide.md)
    * [The Shortcode](the_shortcode.md)
    * [Setup Menu](setup_menu.md)
-   * Configuring Options
+   * [Configuring Options](configuring_options.md)
 * [How to](how_to.md)
 * FAQs
 
