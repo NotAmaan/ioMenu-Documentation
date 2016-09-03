@@ -8,4 +8,5 @@
    * Extended Licence Integration
 * Getting Started
 * How to
+* Licensing
 
