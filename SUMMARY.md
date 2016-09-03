@@ -8,6 +8,7 @@
    * Extended Licence Integration
 * [Getting Started](getting_started.md)
    * Installation
+   * Activatio
 * How to
 * Licensing
 * FAQs
