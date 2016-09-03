@@ -11,7 +11,7 @@
    * [Activation](activation.md)
    * [Update](update.md)
 * [Usage Guide](usage_guide.md)
-   * The Shortcode
+   * [The Shortcode](the_shortcode.md)
    * Setup Menu
    * Configuring Options
 * [How to](how_to.md)
