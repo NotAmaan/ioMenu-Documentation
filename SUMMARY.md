@@ -12,7 +12,7 @@
    * [Update](update.md)
 * [Usage Guide](usage_guide.md)
    * [The Shortcode](the_shortcode.md)
-   * Setup Menu
+   * [Setup Menu](setup_menu.md)
    * Configuring Options
 * [How to](how_to.md)
 * FAQs
