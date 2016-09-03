@@ -20,4 +20,5 @@
    * Add shortcode to menu
    * Hide theme's menu
 * Developers
+   * Override Menu Templates
 
