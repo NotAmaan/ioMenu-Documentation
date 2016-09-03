@@ -1,6 +1,6 @@
 # Summary
 
-* [1. Preface](README.md)
+* [Preface](README.md)
    * [1.1 Quick Links](quick_links.md)
    * [Support Policy](support_policy.md)
 * [Licensing](chapter1.md)
