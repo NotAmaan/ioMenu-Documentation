@@ -10,6 +10,7 @@
    * [Installation](installation.md)
    * [Activation](activation.md)
    * [Update](update.md)
+* Usage Guide
 * How to
 * Licensing
    * Usage Guide
