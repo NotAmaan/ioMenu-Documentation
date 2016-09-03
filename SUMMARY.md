@@ -10,7 +10,7 @@
    * [Installation](installation.md)
    * [Activation](activation.md)
    * [Update](update.md)
-* Usage Guide
+* [Usage Guide](usage_guide.md)
 * How to
 * FAQs
 
