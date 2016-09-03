@@ -15,5 +15,6 @@
    * [Setup Menu](setup_menu.md)
    * [Configuring Options](configuring_options.md)
 * [How to](how_to.md)
+   * Add widgets to menu
 * FAQs
 
