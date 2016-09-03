@@ -9,7 +9,7 @@
 * [Getting Started](getting_started.md)
    * [Installation](installation.md)
    * [Activation](activation.md)
-   * Update
+   * [Update](update.md)
 * How to
 * Licensing
 * FAQs
