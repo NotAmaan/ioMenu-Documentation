@@ -14,6 +14,6 @@
    * The Shortcode
    * Setup Menu
    * Configuring Options
-* How to
+* [How to](how_to.md)
 * FAQs
 
