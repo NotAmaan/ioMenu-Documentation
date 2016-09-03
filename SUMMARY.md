@@ -7,7 +7,7 @@
    * Regular Licence
    * Extended Licence Integration
 * [Getting Started](getting_started.md)
-   * Installation
+   * [Installation](installation.md)
    * Activation
    * Update
 * How to
