@@ -19,7 +19,7 @@
    * Add widgets to menu
    * Add shortcode to menu
    * Hide theme's menu
-* Developers
+* [Developers](developers.md)
    * [Override Menu Templates](override_menu_templates.md)
    * [Integrating ioMenu with a Theme](integrating_iomenu_with_a_theme.md)
 
