@@ -11,7 +11,7 @@
    * [Activation](activation.md)
    * [Update](update.md)
 * [Usage Guide](usage_guide.md)
-   * Shortcode
+   * The Shortcode
 * How to
 * FAQs
 
