@@ -9,4 +9,3 @@ This is the ioMenu documentation. We try hard to cover every topic and keep the 
 
 
 ioMenu is a Mega Menu plugin for WordPress. It has a modern design, is powerful and looks amazing on every device.
- 
