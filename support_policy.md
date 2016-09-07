@@ -1,6 +1,6 @@
 # Support Policy
  
-Lojjjrem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Quis aute iure reprehenderit in voluptate velit esse. Nec dubitamus multa iter quae et nos invenerat. Ullamco laboris nisi ut aliquid ex ea commodi consequat. A communi observantia non est recedendum.
+Lojjjrem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magn a aliqua. Quis aute iure reprehenderit in voluptate velit esse. Nec dubitamus multa iter quae et nos invenerat. Ullamco laboris nisi ut aliquid ex ea commodi consequat. A communi observantia non est recedendum.
 Pellentesque habitant morbi tristique senectus et netus. Morbi fringilla convallis sapien, id pulvinar odio volutpat. Gallia est omnis divisa in partes tres, quarum.
 Inmensae subtilitatis, obscuris et malesuada fames. Integer legentibus erat a ante historiarum dapibus. Fabio vel iudice vincam, sunt in culpa qui officia. Plura mihi bona sunt, inclinet, amari petere vellent.
 Quisque placerat facilisis egestas cillum dolore. Quam diu etiam furor iste tuus nos eludet? Excepteur sint obcaecat cupiditat non proident culpa. Tu quoque, Brute, fili mi, nihil timor populi, nihil! Curabitur est gravida et libero vitae dictum. At nos hinc posthac, sitientis piros Afros.
