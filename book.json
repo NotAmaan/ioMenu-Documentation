@@ -1,7 +1,7 @@
 {
     "plugins": [
         "-add-header",
-        "anchor-navigation",
+        "-anchor-navigation",
         "anchorjs",
         "catalog",
         "back-to-top-button",
