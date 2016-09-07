@@ -3,7 +3,7 @@
         "-add-header",
         "-anchor-navigation",
         "anchorjs",
-        "catalog",
+        "-catalog",
         "-back-to-top-button",
         "numbered-headings-for-web-and-books"
     ],
