@@ -18,4 +18,4 @@ At this point, ioMenu should be visible on your website and should show the corr
 
 ## Integration
 
-ioMenu integrated with every 
+ioMenu integrated with every matches the requirements.
