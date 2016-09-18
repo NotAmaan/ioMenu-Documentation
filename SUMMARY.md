@@ -1,7 +1,7 @@
 # Summary
 
 * [Preface](README.md)
-   * [Quick Links](quick_links.md)
+   * [Quick Links](preface/quick_links.md)
    * [Support Policy](support_policy.md)
 * [Licensing](licensing/README.md)
    * [Regular Licence](licensing/regular_licence.md)
