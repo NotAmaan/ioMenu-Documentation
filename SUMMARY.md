@@ -10,6 +10,7 @@
    * [Installation](installation.md)
    * [Activation](activation.md)
    * [Update](update.md)
+   * Quick Start
 * [Usage Guide](usage_guide.md)
    * [The Shortcode](the_shortcode.md)
    * [Setup Menu](setup_menu.md)
