@@ -8,10 +8,10 @@
    * Extended Licence Integration
 * [Getting Started](getting_started.md)
    * [Quick Start](quick_start.md)
+   * Requirements
    * [Installation](installation.md)
    * [Activation](activation.md)
    * [Update](update.md)
-   * Requirements
 * [Usage Guide](usage_guide.md)
    * [The Shortcode](the_shortcode.md)
    * [Setup Menu](setup_menu.md)
