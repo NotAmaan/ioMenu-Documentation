@@ -7,10 +7,10 @@
    * Regular Licence
    * Extended Licence Integration
 * [Getting Started](getting_started.md)
+   * Quick Start
    * [Installation](installation.md)
    * [Activation](activation.md)
    * [Update](update.md)
-   * Quick Start
 * [Usage Guide](usage_guide.md)
    * [The Shortcode](the_shortcode.md)
    * [Setup Menu](setup_menu.md)
