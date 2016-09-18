@@ -4,7 +4,7 @@
    * [Quick Links](quick_links.md)
    * [Support Policy](support_policy.md)
 * [Licensing](chapter1.md)
-   * Regular Licence
+   * [Regular Licence](licensing/regular_licence.md)
    * Extended Licence Integration
 * [Getting Started](getting_started.md)
    * [Quick Start](quick_start.md)
