@@ -11,6 +11,7 @@
    * [Requirements](requirements.md)
    * [Installation](installation.md)
    * [Activation](activation.md)
+       * Integration
    * [Update](update.md)
 * [Usage Guide](usage_guide.md)
    * [The Shortcode](the_shortcode.md)
