@@ -3,7 +3,7 @@
 * [Preface](README.md)
    * [Quick Links](quick_links.md)
    * [Support Policy](support_policy.md)
-* [Licensing](chapter1.md)
+* [Licensing](licensing/README.md)
    * [Regular Licence](licensing/regular_licence.md)
    * Extended Licence Integration
 * [Getting Started](getting_started.md)
