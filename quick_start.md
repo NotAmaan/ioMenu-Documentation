@@ -13,4 +13,9 @@ You will see ioMenu visible on your website at this point but the menu it shows 
 
 * Go to *Appearance > Menus* and create a new menu or edit an existing menu.
 * Scroll down to Menu Settings and select the two Theme Locations added by ioMenu called *ioMenu - Desktop* and *ioMenu - Mobile*
-* 
+At this point, ioMenu should be visible on your website and should show the correct menu items.
+
+
+## Integration
+
+ioMenu integrated with every 
