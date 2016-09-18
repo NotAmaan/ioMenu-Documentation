@@ -21,21 +21,17 @@ At this point, ioMenu should be visible on your website and should show the corr
 
 
 #### Automatic Integration
-
 ioMenu integrates with every [well coded theme](./requirements.md). If your theme fulfills these requirements (almost every theme does) you should already be setup as automatic integration is enabled by  default. [Read more.](./integration.md)
 
 
 #### Manual Integration
-
 Alternatively, you can also disable Automatic Integration and manually place ioMenu's Shortcode or PHP code. [Read more.](./integration.md)
 
 
 ## 4. Menu Configurations
 
 #### Configuration and Styling Options
-
 The global configurations and styling options for ioMenu are in Customizer. Go to *Appearance > Customizer* and choose the ioMenu section.
 
 #### Menu Items and Dropdown Options
-
 Every Menu item has its own set of options for enabling Megamenu, styling, adding icon etc. To edit these go to *Appearance > Menus* and click on any menu item to reveal its options.
