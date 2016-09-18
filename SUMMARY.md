@@ -5,7 +5,7 @@
    * [Support Policy](support_policy.md)
 * [Licensing](licensing/README.md)
    * [Regular Licence](licensing/regular_licence.md)
-   * Extended Licence Integration
+   * [Extended Licence Integration](licensing/extended_licence_integration.md)
 * [Getting Started](getting_started.md)
    * [Quick Start](quick_start.md)
    * [Requirements](requirements.md)
