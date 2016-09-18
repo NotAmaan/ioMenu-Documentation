@@ -10,7 +10,6 @@
    * [Quick Start](quick_start.md)
    * [Requirements](requirements.md)
    * [Installation](installation.md)
-   * [Activation](activation.md)
    * [Integration](integration.md)
    * [Update](update.md)
 * [Usage Guide](usage_guide.md)
