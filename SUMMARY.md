@@ -8,7 +8,7 @@
    * Extended Licence Integration
 * [Getting Started](getting_started.md)
    * [Quick Start](quick_start.md)
-   * Requirements
+   * [Requirements](requirements.md)
    * [Installation](installation.md)
    * [Activation](activation.md)
    * [Update](update.md)
