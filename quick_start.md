@@ -21,7 +21,7 @@ At this point, ioMenu should be visible on your website and should show the corr
 
 ### Automatic Integration
 
-ioMenu integrates with every [well coded theme](./requirements.md). If your theme fulfills these requirements (almost every theme does) you should already be setup as automatic integration is enabled by  default.
+ioMenu integrates with every [well coded theme](./requirements.md). If your theme fulfills these requirements (almost every theme does) you should already be setup as automatic integration is enabled by  default. [Read more.](./integration.md)
 
 
 ### Manual Integration
