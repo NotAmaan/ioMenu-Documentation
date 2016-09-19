@@ -5,10 +5,10 @@
    * [Support Policy](preface/support_policy.md)
 * [Getting Started](getting-started/README.md)
    * [Quick Start](getting-started/quick_start.md)
-   * Configuration
    * [Requirements](getting-started/requirements.md)
    * [Installation](getting-started/installation.md)
    * [Integration](getting-started/integration.md)
+   * Configuration
    * [Update](getting-started/update.md)
 * [Usage Guide](usage-guide/README.md)
    * [The Shortcode](usage-guide/the_shortcode.md)
