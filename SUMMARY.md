@@ -13,7 +13,7 @@
    * [Integration](getting-started/integration.md)
    * [Update](getting-started/update.md)
 * [Usage Guide](usage-guide/README.md)
-   * [The Shortcode](the_shortcode.md)
+   * [The Shortcode](usage-guide/the_shortcode.md)
    * [Setup Menu](setup_menu.md)
    * [Configuring Options](configuring_options.md)
    * [Megamenu](megamenu.md)
