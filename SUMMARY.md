@@ -11,7 +11,7 @@
    * [Requirements](getting-started/requirements.md)
    * [Installation](getting-started/installation.md)
    * [Integration](getting-started/integration.md)
-   * [Update](update.md)
+   * [Update](getting-started/update.md)
 * [Usage Guide](usage_guide.md)
    * [The Shortcode](the_shortcode.md)
    * [Setup Menu](setup_menu.md)
