@@ -10,7 +10,7 @@
    * [Quick Start](getting-started/quick_start.md)
    * [Requirements](getting-started/requirements.md)
    * [Installation](getting-started/installation.md)
-   * [Integration](integration.md)
+   * [Integration](getting-started/integration.md)
    * [Update](update.md)
 * [Usage Guide](usage_guide.md)
    * [The Shortcode](the_shortcode.md)
