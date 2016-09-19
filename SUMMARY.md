@@ -20,7 +20,7 @@
 * [How to](how-to/README.md)
    * [Add widgets to menu](how-to/add_widgets_to_menu.md)
    * [Add shortcode to menu](how-to/add_shortcode_to_menu.md)
-   * Hide theme's menu
+   * [Hide theme's menu](how-to/hide_themes_menu.md)
    * [Find your theme menu's ID/Class](find_your_theme_menus_idclass.md)
 * [Developers](developers.md)
    * [Override Menu Templates](override_menu_templates.md)
