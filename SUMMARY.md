@@ -8,7 +8,7 @@
    * [Requirements](getting-started/requirements.md)
    * [Installation](getting-started/installation.md)
    * [Integration](getting-started/integration.md)
-   * Configuration
+   * [Configuration](getting-started/configuration.md)
    * [Update](getting-started/update.md)
 * [Usage Guide](usage-guide/README.md)
    * [The Shortcode](usage-guide/the_shortcode.md)
