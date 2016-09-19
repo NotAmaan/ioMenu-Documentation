@@ -7,6 +7,7 @@
    * [Quick Start](getting-started/quick_start.md)
    * [Requirements](getting-started/requirements.md)
    * [Installation](getting-started/installation.md)
+       * Configuration
    * [Integration](getting-started/integration.md)
    * [Update](getting-started/update.md)
 * [Usage Guide](usage-guide/README.md)
