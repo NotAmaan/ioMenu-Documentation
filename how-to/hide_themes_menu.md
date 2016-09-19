@@ -1,2 +1,0 @@
-# Hide theme's menu
-
