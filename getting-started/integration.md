@@ -22,7 +22,17 @@ Integrating ioMenu is a simple process. There are two main steps involved:
 * Click Save & Publish
 
 ### 2. Manual Integration
- Manual Integration allows you to place the ioMenu shortcode or a PHP Code Snippet. You can use manual integration if you want to place the shortcode or PHP code via a Page Builder or manually edit your Child Theme's header.
+ Manual Integration allows you to place the ioMenu shortcode or a PHP Code Snippet. You can use manual integration if you want to place the shortcode or PHP code via a Page Builder or manually edit your Child Theme's header. Here are the available code snippets for Manual Integration.
+ ##### Shortcode
+``` 
+[ioMenu]
+```
+
+ ##### PHP Code
+ ``` 
+ <?php echo do_shortcode('[ioMenu]'); ?>
+ ```
+ 
 
 #### Requirements for Manual Integration
  Manual Integration has no as such requirements.
@@ -35,7 +45,8 @@ Integrating ioMenu is a simple process. There are two main steps involved:
 
 
 
-
 ---
 
 ##### Related
+* [How to Hide Theme's Menu](../how-to/hide_themes_menu.md)
+* [How to hook ioMenu to a different action](../how-to/hook_to_a_different_action.md)
