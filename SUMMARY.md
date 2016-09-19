@@ -21,6 +21,7 @@
    * [Hide theme's menu](how-to/hide_themes_menu.md)
    * [Find your theme menu's ID/Class](find_your_theme_menus_idclass.md)
    * Reset ioMenu Options
+   * Hook to a different action
 * [Developers](developers/README.md)
    * [Override Menu Templates](developers/override_menu_templates.md)
    * [Integrating ioMenu with a Theme](developers/integrating_iomenu_with_a_theme.md)
