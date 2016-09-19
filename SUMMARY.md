@@ -24,5 +24,5 @@
    * [Find your theme menu's ID/Class](find_your_theme_menus_idclass.md)
 * [Developers](developers/README.md)
    * [Override Menu Templates](developers/override_menu_templates.md)
-   * [Integrating ioMenu with a Theme](integrating_iomenu_with_a_theme.md)
+   * [Integrating ioMenu with a Theme](developers/integrating_iomenu_with_a_theme.md)
 
