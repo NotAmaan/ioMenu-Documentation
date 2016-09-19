@@ -6,7 +6,7 @@
 * [Licensing](licensing/README.md)
    * [Regular Licence](licensing/regular_licence.md)
    * [Extended Licence Integration](licensing/extended_licence_integration.md)
-* [Getting Started](getting_started.md)
+* [Getting Started](getting-started/README.md)
    * [Quick Start](quick_start.md)
    * [Requirements](requirements.md)
    * [Installation](installation.md)
