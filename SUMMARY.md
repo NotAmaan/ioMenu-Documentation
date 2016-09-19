@@ -9,7 +9,7 @@
 * [Getting Started](getting-started/README.md)
    * [Quick Start](getting-started/quick_start.md)
    * [Requirements](getting-started/requirements.md)
-   * [Installation](installation.md)
+   * [Installation](getting-started/installation.md)
    * [Integration](integration.md)
    * [Update](update.md)
 * [Usage Guide](usage_guide.md)
