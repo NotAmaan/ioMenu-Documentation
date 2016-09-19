@@ -32,3 +32,10 @@ Integrating ioMenu is a simple process. There are two main steps involved:
 * Once you're in Customizer, click on ioMenu and the Integration ![](../img/customizer-integration.png)
 * In the **Integration Type** option, choose *Manual* ![](../img/customizer-manual.png)
 * Click Save & Publish
+
+
+
+
+---
+
+##### Related
