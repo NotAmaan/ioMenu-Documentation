@@ -15,11 +15,20 @@ Integrating ioMenu is a simple process. There are two main steps involved:
 #### Requirements for Automatic Integration
  The only requirement for Automatic Integration is that your theme must correctly use WordPress's [wp_head()](https://developer.wordpress.org/reference/functions/wp_head/) function.
 
-#### Configuring Automatic Integration
+#### Enabling Automatic Integration
 * Go to *Appearance > Customize*
 * Once you're in Customizer, click on ioMenu and the Integration ![](../img/customizer-integration.png)
 * In the **Integration Type** option, choose *Automatic* ![](../img/customizer-automatic.png)
 * Click Save & Publish
 
 ### 2. Manual Integration
-Manual Integration allows you to place the ioMenu shortcode or a PHP Code Snippet. You can use manual integration if you want to place the shortcode or PHP code via a Page Builder or manually edit your Child Theme's header.
+ Manual Integration allows you to place the ioMenu shortcode or a PHP Code Snippet. You can use manual integration if you want to place the shortcode or PHP code via a Page Builder or manually edit your Child Theme's header.
+
+#### Requirements for Manual Integration
+ Manual Integration has no as such requirements.
+ 
+ #### Enabling Manual Integration
+ * Go to *Appearance > Customize*
+* Once you're in Customizer, click on ioMenu and the Integration ![](../img/customizer-integration.png)
+* In the **Integration Type** option, choose *Manual* ![](../img/customizer-manual.png)
+* Click Save & Publish
