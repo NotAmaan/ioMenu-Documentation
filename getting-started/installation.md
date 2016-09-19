@@ -1,2 +1,3 @@
 # Installation
 
+* Go to Plugins > 
