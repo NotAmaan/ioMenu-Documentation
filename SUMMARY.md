@@ -23,6 +23,6 @@
    * [Hide theme's menu](how-to/hide_themes_menu.md)
    * [Find your theme menu's ID/Class](find_your_theme_menus_idclass.md)
 * [Developers](developers/README.md)
-   * [Override Menu Templates](override_menu_templates.md)
+   * [Override Menu Templates](developers/override_menu_templates.md)
    * [Integrating ioMenu with a Theme](integrating_iomenu_with_a_theme.md)
 
