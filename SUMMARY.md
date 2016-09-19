@@ -16,7 +16,7 @@
    * [The Shortcode](usage-guide/the_shortcode.md)
    * [Setup Menu](usage-guide/setup_menu.md)
    * [Configuring Options](usage-guide/configuring_options.md)
-   * [Megamenu](megamenu.md)
+   * [Megamenu](usage-guide/megamenu.md)
 * [How to](how_to.md)
    * Add widgets to menu
    * Add shortcode to menu
