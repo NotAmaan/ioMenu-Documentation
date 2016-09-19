@@ -19,10 +19,10 @@
    * [Add shortcode to menu](how-to/add_shortcode_to_menu.md)
    * [Hide theme's menu](how-to/hide_themes_menu.md)
    * [Find your theme menu's ID/Class](find_your_theme_menus_idclass.md)
-* [Licensing](licensing/README.md)
-   * [Regular Licence](licensing/regular_licence.md)
-   * [Extended Licence Integration](licensing/extended_licence_integration.md)
 * [Developers](developers/README.md)
    * [Override Menu Templates](developers/override_menu_templates.md)
    * [Integrating ioMenu with a Theme](developers/integrating_iomenu_with_a_theme.md)
+* [Licensing](licensing/README.md)
+   * [Regular Licence](licensing/regular_licence.md)
+   * [Extended Licence Integration](licensing/extended_licence_integration.md)
 
