@@ -18,7 +18,7 @@
    * [Configuring Options](usage-guide/configuring_options.md)
    * [Megamenu](usage-guide/megamenu.md)
 * [How to](how-to/README.md)
-   * Add widgets to menu
+   * [Add widgets to menu](how-to/add_widgets_to_menu.md)
    * Add shortcode to menu
    * Hide theme's menu
    * [Find your theme menu's ID/Class](find_your_theme_menus_idclass.md)
