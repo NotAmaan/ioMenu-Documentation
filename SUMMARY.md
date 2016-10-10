@@ -2,7 +2,6 @@
 
 * [Preface](README.md)
     * [Quick Links](preface/quick_links.md)
-    * [Support Policy](preface/support_policy.md)
 * [Getting Started](getting-started/README.md)
     * [Quick Start](getting-started/quick_start.md)
     * [Requirements](getting-started/requirements.md)
