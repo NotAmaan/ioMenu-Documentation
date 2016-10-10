@@ -2,15 +2,13 @@
 
 ### ioMenu WordPress Shortcode
 
-\[ioMenu\]
+`[ioMenu]`
 
 This shortcode can be placed on any page using the WordPress editor or a page builder.
 
-
-
 ### ioMenu WordPress Shortcode - PHP
 
-&lt;?php echo do\_shortcode\('\[ioMenu\]'\); ?&gt;
+`<?php echo do_shortcode('[ioMenu]'); ?>`
 
 The above code can be placed inside your theme's header file to integrate ioMenu with your theme.
 
