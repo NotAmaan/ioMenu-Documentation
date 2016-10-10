@@ -8,6 +8,6 @@
 ### Support
 
 * [ioMenu Support Forums](https://www.themeshop.io/forum/ioMenu/)
-* [ioMenu Documentation](#)
+* [ioMenu Documentation](https://themeshop.gitbooks.io/iomenu-documentation/content/)
 * [ioMenu Changelog](#)
 
