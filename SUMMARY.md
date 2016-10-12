@@ -10,7 +10,7 @@
     * [Update](getting-started/update.md)
 * [Usage Guide](usage-guide/README.md)
     * [The Shortcode](usage-guide/the_shortcode.md)
-    * [Setup Menu](usage-guide/setup_menu.md)
+    * [The Options](usage-guide/setup_menu.md)
     * [Configuring Options](usage-guide/configuring_options.md)
     * [Megamenu](usage-guide/megamenu.md)
 * [How to](how-to/README.md)
